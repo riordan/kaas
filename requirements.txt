@@ -1,0 +1,7 @@
+Jinja2==2.7.3
+MarkupSafe==0.23
+beautifulsoup4==4.3.2
+gnureadline==6.3.3
+ipython==2.3.0
+pyzmq==14.3.1
+requests==2.4.3
